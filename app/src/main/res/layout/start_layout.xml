@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:textColor="#FFFFFF"
+        android:background="@color/colorPrimary"
+        android:text="Начать игру!"
+        android:layout_width="150dip"
+        android:layout_height="wrap_content"
+        android:id="@+id/startBtn"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="15dip"
+        android:onClick="goGameStart" />
+
+    <TextView
+        android:text=""
+        android:id="@+id/records"
+        android:textSize="15dip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/startBtn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="44dp"
+        />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dip">
+
+    <RadioButton
+        android:id="@+id/radioButtonOne"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:clickable="true"
+        android:text="Легко" />
+    <RadioButton
+        android:id="@+id/radioButtonTwo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:text="Средне" />
+    <RadioButton
+        android:id="@+id/radioButtonThird"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:text="Сложно" />
+    </RadioGroup >
+
+</RelativeLayout>

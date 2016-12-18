@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Math and Brain</string>
+
+
+    /*StartActivity*/
+    <string name="best_record">Лучший рекорд - </string>
+    <string name="developers">Разработчики</string>
+    <string name="about_of_developers">Пролижение разработано ребятами Aofled и Kit\nВерсия 1.0.1.081216</string>
+    <string name="clear_record">Рекорды очищены!</string>
+
+
+    /*MainBrain*/
+    <string name="time_off">Время вышло!</string>
+    <string name="wrong_ans">Ответ неверный!</string>
+    <string name="points">Очки: </string>
+    <string name="new_record">Поздравляем, новый рекорд!</string>
+    <string name="exit">Выход</string>
+    <string name="get_points">Вы набрали</string>
+    <string name="txt_points">очков</string>
+    <string name="txt_get_points">Начнем считать заново?</string>
+    <string name="cnt_game">Количество игр:</string>
+    <string name="txt_time">00:30</string>
+    <string name="lvl">level</string>
+
+
+
+
+
+    /*MENU*/
+    /*menu form Start*/
+    <string name="menu_record">Таблица рекордов</string>
+    <string name="menu_record_del">Очистить рекорды</string>
+    <string name="menu_razrab">О разработчиках</string>
+    <string name="menu_exit">Выход</string>
+
+</resources>

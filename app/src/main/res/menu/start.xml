@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.lan30.afactor.lan30.OnlineActivity">
+
+
+    <item
+        android:id="@+id/menu_record"
+        android:orderInCategory="1"
+        android:title="@string/menu_record"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_record_del"
+        android:orderInCategory="1"
+        android:title="@string/menu_record_del"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_rezrabs"
+        android:orderInCategory="1"
+        android:title="@string/menu_razrab"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_exit"
+        android:orderInCategory="1"
+        android:title="@string/menu_exit"
+        app:showAsAction="never" />
+
+</menu>
