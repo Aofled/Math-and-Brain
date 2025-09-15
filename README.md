@@ -1,20 +1,15 @@
 # Math-and-Brain
 
 
-Данная игра позволяет развить навыки устного счета.
-Изучение математики существенно способствует развитию логического мышления памяти.
-Подойдет как ученикам начальных классов, так и взрослым для интеллектуальной разминки.
+This game helps develop mental arithmetic skills.
+Studying mathematics significantly contributes to the development of logical thinking and memory.
+Suitable for both primary school students and adults for an intellectual warm-up.
 
-Игра включает:
-- 3 уровня сложности;
-- таблицу рекордов;
-- 3 варианта ответа;
-- ограниченное время на вычисление ответа;
-- задачи на сложение;
-- задачи на вычитание;
-- комбинированные задачи.
-
-В будущем планируется добавить:
-- задачи на умножение;
-- задачи на деление;
-- вывод результатов игр в виде графика.
+The game includes:
+- 3 difficulty levels;
+- a table of records;
+- 3 answer options;
+- limited time to calculate the answer;
+- addition problems;
+- subtraction problems;
+- combined problems.
